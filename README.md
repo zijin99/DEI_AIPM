@@ -26,3 +26,9 @@ Recommandation Enviorment:
 Colab by Google
 
 [Example code](https://colab.research.google.com/drive/11tZVlT4Qryq1xFoWgCdR6XaLMSRiCua-?usp=sharing)
+
+Reference:
+
+https://blog.apilayer.com/build-your-own-resume-parser-using-python-and-nlp/
+
+https://github.com/dhinu95/Resume-Parser-Using-NLP
